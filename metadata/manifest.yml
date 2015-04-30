@@ -11,6 +11,7 @@ Compatible-Versions: []
 Cartridge-Vendor: arielscarpinelli
 Website: http://www.phpmyadmin.net/
 Categories:
+- embedded
 - plugin
 - administration
 Cart-Data:
@@ -19,7 +20,7 @@ Cart-Data:
   Description: phpMyAdmin connection URL
 Group-Overrides:
 - components:
-  - web_framework
+  - web_proxy
   - phpmyadmin
 Provides:
 - phpmyadmin-4
