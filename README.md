@@ -1,2 +1,7 @@
-# OpenShift phpMyAdmin Cartridge
-This cartridge is documented in the [Cartridge Guide](http://openshift.github.io/documentation/oo_cartridge_guide.html#phpmyadmin).
+# OpenShift scalable phpMyAdmin Cartridge
+This is a fork from the original openshift phpmyadmin cartridge with scaling enabled and grouped with the load balancer
+
+## To install
+```
+rhc cartridge-add https://raw.githubusercontent.com/arielscarpinelli/openshift-scalable-phpmyadmin/master/metadata/manifest.yml
+```
