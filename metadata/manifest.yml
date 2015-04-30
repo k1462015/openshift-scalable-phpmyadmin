@@ -8,7 +8,7 @@ License: GPLv2
 Vendor: Red Hat
 Cartridge-Version: 0.0.13
 Compatible-Versions: []
-Cartridge-Vendor: redhat
+Cartridge-Vendor: arielscarpinelli
 Website: http://www.phpmyadmin.net/
 Categories:
 - plugin
