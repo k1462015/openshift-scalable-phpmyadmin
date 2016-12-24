@@ -41,7 +41,7 @@ Scaling:
 Endpoints:
 - Private-IP-Name: IP
   Private-Port-Name: PORT
-  Private-Port: 8081
+  Private-Port: 8082
   Public-Port-Name: PROXY_PORT
   Protocols:
   - http
